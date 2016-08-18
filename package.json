@@ -1,0 +1,22 @@
+{
+  "name": "drones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "Jaimin Desai",
+  "license": "ISC",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "jquery": "^3.1.0",
+    "material-design-lite": "^1.1.3",
+    "systemjs": "^0.19.36",
+    "traceur": "0.0.111"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
